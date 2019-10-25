@@ -1,26 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">  <image id="image0" width="128" height="128" x="0" y="0"
-    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAAAAADmVT4XAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
-AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElN
-RQfjChgXBwzch8tEAAAD1ElEQVR42u2aL4j6UBzAj4WVgcUwsGhZECwmYcEgJsvBYTEdGA5MMwkr
-hgsXxOYlg+GSwXJJLIJgMBhss43BwtLCWFvYzzuO956nt33ffHP84H1BPc6v22dv3+/3ff/sIcxY
-HjgAB+AAHIADcAAOwAE4AAfgAByAA3CA234e+K7r+UEmAO7+Y/jcbKg1tfHYGy0M764A7lKr5QVC
-xEJ9uPXvBWCPVUm4lFxr7t4DwJlUROG6SM0VrT3QA2yaQoTkdSddAH9UEKLl8ZgmgNMThTip7dMD
-sB5jT/9FYKQFYLV+napQabRajUrx17I07HQAnKez0yi9+cHxg1MwPH4OqmcMGjwiUAD4PfIclbFJ
-fmnPaqQ7fqQBMCYuUtLM319bGhGcKib0qHCAtUzc+9mVeONPclhDZw7gEPGntLyqEozwGpSgngAG
-eCOuf/mHDmklr4wBjgq+/7M/tcwKtgKgK0IBdJiPzZChinOmAEYRnb9qRejZ2Bm7sH0RCDBGxxVn
-kYrYVMqwewADcFV03Hp0zrFDeZK0Zgiwwv41jdb0MOqIIQA2QcWKUcWe2GEH4NXRUV/idCdIVQXl
-ySCAA4rC8c61RI5YNJkBzHEQjI2w2ApzO2YAQ+wDsctqoJxRXLECCHAi0o1VNnHIAiUFEADCtepD
-fXgS/fvj610//YFeX//V8J48YQVg442ISkCBAAJgyMkAQDsyBGCbSwYAyoogAGspY4BlfDWULsBn
-QoBh1gDMVmCFAaQcXCRmXkAYob7dbLdnr4j3uJ0bDLChDG5UAgHAu7HwlgmAVUIAWiYAbhUBtG/p
-SSYG8HFZWKPvwzEAIBLN+IwoFQCcaIqLTACIsqCfCYBZSs8IQABEUih9ZgFAdieeGTsiDAAn+4K8
-yQLAJzqU7YSTiZsAwne8I4tT2E/YAli4+SOUtrHqwRbcrIX2iAgzjG9Gu6/lA2sAs0wQqJEN+WDd
-FGRwyAb3CadkYliOiAZG/+QyMvMVCL0nAkDI983rV38YfBenKQCEe/ImnBbhzbgISdai81OcpwEQ
-zs8GhYJQ7Ex3zk/TMvCszXtXQZtWIQ2AcHxRouXLjWdtMNBe2qpyVkCmsgJhMAJXqTJ4cEU1Mwom
-eSAAPHOiHNstYL0KZQYeGtEOLved+Fo9/0KROVKPbv2PanStKnc3NClDguG1PVX/XIVcbbiny1gS
-je/dVb96aY5Sqfm6pk4Zkz5B4exm/SdVKRZkuVBUqo32YLqy7vYAw48Enm0eDwfjaDle4kzxf3+K
-hgNwAA7AATgAB+AAHIADcAAOwAE4AAe4Xf4BbYL+Jt+nvlsAAAAldEVYdGRhdGU6Y3JlYXRlADIw
-MTktMTAtMjRUMTU6MDc6MTIrMDg6MDBNBYpNAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE5LTEwLTI0
-VDE1OjA3OjEyKzA4OjAwPFgy8QAAAABJRU5ErkJggg==" />
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text style="cursor: move;" stroke="#000" transform="matrix(16.93298604365301,0,0,8.276869561007377,-3936.2871968726763,-1359.3070228542995) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="24" id="svg_1" y="186.453125" x="246" stroke-width="0" fill="#000000">e</text>
+ </g>
 </svg>
