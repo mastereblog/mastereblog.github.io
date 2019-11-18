@@ -55,10 +55,10 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="Redis笔记">
 <meta property="og:url" content="https:&#x2F;&#x2F;github.com&#x2F;mastereblog&#x2F;mastereblog.github.io&#x2F;2018&#x2F;07&#x2F;11&#x2F;redis%E7%AC%94%E8%AE%B0&#x2F;index.html">
-<meta property="og:site_name" content="易大师的个人博客">
+<meta property="og:site_name" content="master_e&#39;blogs">
 <meta property="og:description" content="今日内容1. redis     1. 概念     2. 下载安装     3. 命令操作         1. 数据结构     4. 持久化操作     5. 使用Java客户端操作redisRedis1. 概念： redis是一款高性能的NOSQL系列的非关系型数据库       1.1.什么是NOSQL         NoSQL(NoSQL = Not Only SQL)，意即“不仅仅">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-10-25T01:52:49.424Z">
+<meta property="og:updated_time" content="2019-10-29T15:50:53.188Z">
 <meta name="twitter:card" content="summary">
 
 <link rel="canonical" href="https://github.com/mastereblog/mastereblog.github.io/2018/07/11/redis%E7%AC%94%E8%AE%B0/">
@@ -75,7 +75,7 @@
   };
 </script>
 
-  <title>Redis笔记 | 易大师的个人博客</title>
+  <title>Redis笔记 | master_e'blogs</title>
   
 
 
@@ -121,7 +121,7 @@
     <div>
       <a href="/" class="brand" rel="start">
         <span class="logo-line-before"><i></i></span>
-        <span class="site-title">易大师的个人博客</span>
+        <span class="site-title">master_e'blogs</span>
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
@@ -166,6 +166,11 @@
     <a href="/archives/" rel="section"><i class="fa fa-fw fa-archive"></i>归档</a>
 
   </li>
+        <li class="menu-item menu-item-message">
+
+    <a href="/message/" rel="section"><i class="fa fa-fw fa-paper-plane"></i>留言</a>
+
+  </li>
   </ul>
 
 </nav>
@@ -196,12 +201,12 @@
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.png">
-      <meta itemprop="name" content="mastere">
-      <meta itemprop="description" content="start from zero">
+      <meta itemprop="name" content="master_e">
+      <meta itemprop="description" content="戒骄戒躁">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="易大师的个人博客">
+      <meta itemprop="name" content="master_e'blogs">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
@@ -222,7 +227,7 @@
                   <i class="fa fa-calendar-check-o"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2019-10-25 09:52:49" itemprop="dateModified" datetime="2019-10-25T09:52:49+08:00">2019-10-25</time>
+                <time title="修改时间：2019-10-29 23:50:53" itemprop="dateModified" datetime="2019-10-29T23:50:53+08:00">2019-10-29</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -237,6 +242,13 @@
             </span>
 
           
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
 
         </div>
       </header>
@@ -660,7 +672,7 @@
                 public static Jedis getJedis(){
                     return jedisPool.getResource();
                 }
-            }</code></pre><h2 id="案例："><a href="#案例：" class="headerlink" title="案例："></a>案例：</h2><pre><code>案例需求：
+            }</code></pre><a id="more"></a><h2 id="案例："><a href="#案例：" class="headerlink" title="案例："></a>案例：</h2><pre><code>案例需求：
     1. 提供index.html页面，页面中有一个省份 下拉列表
     2. 当 页面加载完成后 发送ajax请求，加载所有省份
 
@@ -692,6 +704,9 @@
             <span class="post-nav-divider"></span>
 
             <div class="post-nav-prev post-nav-item">
+                <a href="/2019/10/29/brew/" rel="prev" title="Homebrew update 更新慢的解决办法">
+                  Homebrew update 更新慢的解决办法 <i class="fa fa-chevron-right"></i>
+                </a>
             </div>
           </div>
       </footer>
@@ -741,17 +756,17 @@
 
       <div class="site-overview-wrap sidebar-panel">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
-  <img class="site-author-image" itemprop="image" alt="mastere"
+  <img class="site-author-image" itemprop="image" alt="master_e"
     src="/images/avatar.png">
-  <p class="site-author-name" itemprop="name">mastere</p>
-  <div class="site-description" itemprop="description">start from zero</div>
+  <p class="site-author-name" itemprop="name">master_e</p>
+  <div class="site-description" itemprop="description">戒骄戒躁</div>
 </div>
 <div class="site-state-wrap motion-element">
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">19</span>
+          <span class="site-state-item-count">20</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -764,11 +779,19 @@
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">9</span>
+        <span class="site-state-item-count">10</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
 </div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/mastereblog" title="GitHub &amp;rarr; https:&#x2F;&#x2F;github.com&#x2F;mastereblog"><i class="fa fa-fw fa-github"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:e_jobs@qq.com" title="E-Mail &amp;rarr; mailto:e_jobs@qq.com" rel="noopener" target="_blank"><i class="fa fa-fw fa-envelope"></i>E-Mail</a>
+      </span>
+  </div>
 
 
 
@@ -793,15 +816,30 @@
   <span class="with-love">
     <i class="fa fa-user"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder">mastere</span>
+  <span class="author" itemprop="copyrightHolder">master_e</span>
 </div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> 强力驱动 v4.0.0
-  </div>
-  <span class="post-meta-divider">|</span>
-  <div class="theme-info">主题 – <a href="https://muse.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> v7.4.2
-  </div>
 
         
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
 
 
 
